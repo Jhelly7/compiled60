@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:6
+
+#EXT-X-STREAM-INF:BANDWIDTH=1564488,RESOLUTION=1280x720
+https://cdn.jsdelivr.net/gh/Jhelly7/compiled60@job-malvados-s01-ep03-b1/malvados-s01-ep03-b1/hls/index.m3u8
